@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**MohamedNHagag/MohamedNHagag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mohamed Nasser Abohamda</h1>
+<h3 align="center">I'm a Data Scientist with a strong foundation in Data Analysis , building intelligent systems using Machine Learning, Computer Vision, and Deep Learning (CNNs) and I Haveexperience in Front-end development </h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **About Me**
+
+- 🎓 I'm a 4rd-year Computer Science and AI student at Benha University.  
+- 📊 I work as a Data Analyst Intern at CognoRise InfoTech.  
+- 🤖 Passionate about turning data into actionable insights and building ML models.  
+- 🌱 Currently diving deeper into AI and Machine Learning projects.  
+- 💼 Seeking opportunities in Data Science, ML, or AI roles.
+
+
+🛠 **Tech Stack**
+**Programming:**  
+Python (Pandas, Matplotlib, Seaborn, NumPy) | C++ | JavaScript
+
+**Databases:**  
+SQL | MongoDB
+
+**Data Visualization:**  
+Power BI | Tableau | Excel Dashboards
+
+**Mathematics & Statistics:**  
+Linear Algebra | Descriptive & Inferential Statistics
+
+**Data Cleaning & Analysis:**  
+EDA | Feature Engineering | Handling Missing Data
+
+**Core Skills:**  
+Machine Learning | Neural Networks | Computer Vision (OpenCV, CNNs)
+
+**Web Fundamentals:**  
+HTML | CSS
+
+
+---
+### 📬 Contact Me
+
+- 📧 Email: [hagag9868@gmail.com](mailto:hagag9868@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-hagag-a117682a7)  
+- 💻 [GitHub](https://github.com/MohamedNHagag)
+- 🔗 [MyPortfolio](https://mohamednhagag.github.io/Protfolio/index.html)
