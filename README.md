@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Data Scientist with a strong foundation in Data Analysis , building intelligent systems using Machine Learning, Computer Vision, and Deep Learning (CNNs) and I Haveexperience in Front-end development </h3>
 
 
-🌟 ##About Me
+🌟 **About Me**
 
 - 🎓 I'm a 4rd-year Computer Science and AI student at Benha University.  
 - 📊 I work as a Data Analyst Intern at CognoRise InfoTech.  
@@ -14,8 +14,8 @@
 
 
 
-
-🛠 ##Tech Stack
+---
+🛠 **Tech Stack**
 **Programming:**  
 Python (Pandas, Matplotlib, Seaborn, NumPy) | C++ | JavaScript
 
