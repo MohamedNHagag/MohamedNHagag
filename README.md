@@ -8,9 +8,9 @@
 
 - 🎓 I'm a 4rd-year Computer Science and AI student at Benha University.  
 - 📊 I work as a Data Analyst Intern at CognoRise InfoTech.  
-- 🤖 Passionate about turning data into actionable insights and building ML models.  
-- 🌱 Currently diving deeper into AI and Machine Learning projects.  
-- 💼 Seeking opportunities in Data Science, ML, or AI roles.
+- 🤖 Experienced in building end-to-end Machine Learning solutions, from data preprocessing to model deployment.
+- 🌱 Currently expanding my expertise in Deep Learning and Neural Networks.
+ - 💼 Seeking opportunities in Data Science, ML, or AI roles.
 
 
 
