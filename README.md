@@ -13,6 +13,8 @@
 - 💼 Seeking opportunities in Data Science, ML, or AI roles.
 
 
+
+
 🛠 **Tech Stack**
 **Programming:**  
 Python (Pandas, Matplotlib, Seaborn, NumPy) | C++ | JavaScript
