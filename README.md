@@ -39,7 +39,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
 </p>
 
----
 
 ### 🤖 Machine Learning
 
@@ -53,7 +52,6 @@
 <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat"/>
 </p>
 
----
 
 ### 🧠 Deep Learning
 
@@ -64,7 +62,6 @@
 <img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat"/>
 </p>
 
----
 
 ### 🚀 Deployment & MLOps
 
@@ -75,7 +72,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker"/>
 </p>
 
----
 
 ### 📊 Data Analysis & BI
 
@@ -86,7 +82,6 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat"/>
 </p>
 
----
 
 ### 🎥
 
