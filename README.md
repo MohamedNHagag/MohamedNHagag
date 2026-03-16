@@ -7,29 +7,41 @@
 <img src="https://komarev.com/ghpvc/?username=MohamedNHagag&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
+<table>
+<tr>
+<td width="50%">
 
 ### 👨‍💻 About Me
 
--  Know about my experiences <a href="https://drive.google.com/file/d/1lSbDdy8aWF42IVckigyaNfcONu3QBU5E/view?usp=sharing" target="_blank">Here</a>  
--  Ask me about Data Science and AI  
--  How to reach me: **sahermuhamed176@gmail.com**  
--  I’m looking to collaborate on Data Science & AI Projects  
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lSbDdy8aWF42IVckigyaNfcONu3QBU5E/view?usp=sharing" target="_blank">Here</a>  
+- 💬 Ask me about Data Science and AI  
+- 📫 How to reach me: **sahermuhamed176@gmail.com**  
+- 🤝 I’m looking to collaborate on Data Science & AI Projects  
 
-###  Connect with me
+### 🌐 Connect with me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-hagag-a117682a7 target="blank">
+<a href="https://www.linkedin.com/in/mohamed-hagag-a117682a7" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" width="25"/>
 </a>
-<a href="https://www.kaggle.com/mohamedhagag11" target="blank">
+<a href="https://www.kaggle.com/mohamedhagag11" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" height="25" width="25"/>
 </a>
-<a href="https://github.com/MohamedNHagag" target="blank">
+<a href="https://github.com/MohamedNHagag" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" width="25"/>
 </a>
 </p>
 
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 ## Technical Stack:
----
 
 ### 🖥️ Programming Languages
 
@@ -83,8 +95,3 @@
 </p>
 
 
-### 🎥
-
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-</p>
