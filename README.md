@@ -3,7 +3,7 @@
 
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedNHagag&show_icons=true&theme=radical"/>
+<img src="https://komarev.com/ghpvc/?username=MohamedNHagag&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
