@@ -22,10 +22,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" width="25"/>
 </a>
 <a href="https://www.kaggle.com/mohamedhagag11" target="_blank">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="25" width="25"/>
 </a>
-<a href="https://github.com/MohamedNHagag" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" width="25"/>
+<a href="https://www.facebook.com/YOUR_USERNAME" target="_blank">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="25" width="25"/>
 </a>
 </p>
 
