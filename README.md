@@ -12,7 +12,7 @@
 
 -  Know about my experiences <a href="https://drive.google.com/file/d/1lSbDdy8aWF42IVckigyaNfcONu3QBU5E/view?usp=sharing" target="_blank">Here</a>  
 -  Ask me about Data Science and AI  
--  How to reach me: **sahermuhamed176@gmail.com**  
+-  How to reach me: **hagag9868@gmail.com**  
 -  I’m looking to collaborate on Data Science & AI Projects  
 
 ###  Connect with me
