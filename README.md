@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hagag</h1>
-<h3 align="center">Data Analyst | Data Scientist | AI Enthusiast</h3>
+<h3 align="center">" Data Analyst | Data Scientist | AI Enthusiast "</h3>
 
----
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=MohamedNHagag&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -9,14 +8,14 @@
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
-### 👨‍💻 About Me
+### About Me :
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lSbDdy8aWF42IVckigyaNfcONu3QBU5E/view?usp=sharing" target="_blank">Here</a>  
-- 💬 Ask me about Data Science and AI  
-- 📫 How to reach me: **sahermuhamed176@gmail.com**  
-- 🤝 I’m looking to collaborate on Data Science & AI Projects  
+-  Know about my experiences <a href="https://drive.google.com/file/d/1lSbDdy8aWF42IVckigyaNfcONu3QBU5E/view?usp=sharing" target="_blank">Here</a>  
+-  Ask me about Data Science and AI  
+-  How to reach me: **sahermuhamed176@gmail.com**  
+-  I’m looking to collaborate on Data Science & AI Projects  
 
-### 🌐 Connect with me
+###  Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-hagag-a117682a7" target="_blank">
