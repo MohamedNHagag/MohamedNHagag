@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hagag</h1>
-<h3 align="center">" Data Analyst | Data Scientist | AI Enthusiast "</h3>
+<h3 align="center">"Junior Data Scientist and AI "</h3>
 
 
 <p align="left">
