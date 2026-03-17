@@ -37,7 +37,7 @@
 <p>
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
 
 
@@ -61,6 +61,9 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras"/>
 <img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat"/>
+<img src="https://img.shields.io/badge/Transformers-yellow?style=flat"/>
+<img src="https://img.shields.io/badge/LangChain-black?style=flat"/>
+<img src="https://img.shields.io/badge/Cohere-blue?style=flat"/>
 </p>
 
 
@@ -71,6 +74,9 @@
 <img src="https://img.shields.io/badge/Flask-black?style=flat&logo=flask"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat"/>
+<img src="https://img.shields.io/badge/DVC-purple?style=flat"/>
+<img src="https://img.shields.io/badge/CI/CD-blue?style=flat"/>
 </p>
 
 
@@ -78,9 +84,21 @@
 
 <p>
 <img src="https://img.shields.io/badge/SQL-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Oracle-red?style=flat"/>
+<img src="https://img.shields.io/badge/ETL-grey?style=flat"/>
+<img src="https://img.shields.io/badge/Web_Scraping-black?style=flat"/>
+<img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat"/>
+<img src="https://img.shields.io/badge/Statistics-green?style=flat"/>
+<img src="https://img.shields.io/badge/Time_Series-orange?style=flat"/>
+<img src="https://img.shields.io/badge/SSIS-red?style=flat"/>
+<img src="https://img.shields.io/badge/NoSQL-yellow?style=flat"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat"/>
 </p>
 
-
+### 👾 Operating Systems
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+</p>
